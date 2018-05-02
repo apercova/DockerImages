@@ -1,0 +1,4 @@
+1) Download jdk-8*linux*.tar.gz installation package from OTN
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+2) Put downloaded file whitin Dockerfile dir. 
